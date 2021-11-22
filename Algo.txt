@@ -1,3 +1,6 @@
 1. Decide what restaurant to order from
 2. Decide what pizza to order
 3. Call restaurant
+4. Place order for my pizza
+5. Pay for pizza with credit card
+6. Wait for pizza
