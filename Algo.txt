@@ -1,0 +1,3 @@
+1. Decide what restaurant to order from
+2. Decide what pizza to order
+3. Call restaurant
